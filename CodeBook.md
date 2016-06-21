@@ -2,15 +2,15 @@
 
 #The identifiers
 
-Subject - The ID of the test subject
-Activity Label - The type of activity performed when the corresponding measurements were taken
+- Subject - The ID of the test subject
+- Activity Label - The type of activity performed when the corresponding measurements were taken
 
 #The Measurements
 
-*tBodyAcc-std()-Z
-*tBodyAcc-mad()-X
-*tBodyAcc-mad()-Y
-*tBodyAcc-mad()-Z
+* tBodyAcc-std()-Z
+* tBodyAcc-mad()-X
+* tBodyAcc-mad()-Y
+* tBodyAcc-mad()-Z
 *tBodyAcc-max()-X
 *tBodyAcc-max()-Y
 *tBodyAcc-max()-Z
